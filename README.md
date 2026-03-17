@@ -1,4 +1,4 @@
-
+## Giri R (212223060068)
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
@@ -60,4 +60,9 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+
 ## Result
+----
+The fiber supports 4 Linearly Polarized (LP) modes at the given parameters.
+
+---
