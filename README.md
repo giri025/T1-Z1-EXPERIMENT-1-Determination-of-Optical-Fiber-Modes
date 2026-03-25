@@ -59,6 +59,11 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
+## Diagram
+<img width="654" height="646" alt="image" src="https://github.com/user-attachments/assets/d30fd83d-5f0f-49a1-835a-0ac36a971e43" />
+
+---
+
 ## Tabulation
 <img width="1349" height="2152" alt="image" src="https://github.com/user-attachments/assets/216bf0db-5dc0-46d4-b1e6-767dce1c8d80" />
 
